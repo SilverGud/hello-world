@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     //return view('welcome');
-    return 'Puto';
+    return 'Este es mi proyecto de larabel hello-world';
 });
 
 Route::get('/clase', function () {
